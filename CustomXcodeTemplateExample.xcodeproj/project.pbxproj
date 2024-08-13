@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA2C291C2C6B84B2005065F1 /* HomeFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA2C291B2C6B84B2005065F1 /* HomeFile.swift */; };
 		EAC2EFDA2C6B82D500D9277C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC2EFD92C6B82D500D9277C /* AppDelegate.swift */; };
 		EAC2EFDC2C6B82D500D9277C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC2EFDB2C6B82D500D9277C /* SceneDelegate.swift */; };
 		EAC2EFDE2C6B82D500D9277C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC2EFDD2C6B82D500D9277C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA2C291B2C6B84B2005065F1 /* HomeFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeFile.swift; sourceTree = "<group>"; };
 		EAC2EFD62C6B82D500D9277C /* CustomXcodeTemplateExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomXcodeTemplateExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAC2EFD92C6B82D500D9277C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAC2EFDB2C6B82D500D9277C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				EAC2EFE22C6B82D600D9277C /* Assets.xcassets */,
 				EAC2EFE42C6B82D600D9277C /* LaunchScreen.storyboard */,
 				EAC2EFE72C6B82D600D9277C /* Info.plist */,
+				EA2C291B2C6B84B2005065F1 /* HomeFile.swift */,
 			);
 			path = CustomXcodeTemplateExample;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				EAC2EFDE2C6B82D500D9277C /* ViewController.swift in Sources */,
 				EAC2EFDA2C6B82D500D9277C /* AppDelegate.swift in Sources */,
+				EA2C291C2C6B84B2005065F1 /* HomeFile.swift in Sources */,
 				EAC2EFDC2C6B82D500D9277C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
